@@ -3,4 +3,6 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import time
 
-print("do this shit rn")
+print("this is a headless version of Main.py, and it shows data in a more readable format. ")
+
+
