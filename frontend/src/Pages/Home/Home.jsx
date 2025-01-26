@@ -1,7 +1,7 @@
 import { useState } from "react";
 import "./Home.css";
-import Footer from "../../Components/Footer.jsx";
-import TopNav from "../../Components/TopNav.jsx";
+import Footer from "../../components/Footer.jsx";
+import TopNav from "../../components/TopNav.jsx";
 
 const Home = () => {
   return (
